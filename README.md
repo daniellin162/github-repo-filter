@@ -2,7 +2,7 @@
 
 ### Search for GitHub repositories created between two dates
 
-This Node.js script allows you to search for the GitHub repositories with the most stars created between two dates and outputs to the CLI. It uses the GitHub REST API, the Octokit client library, and momemt.js.
+This Node.js script allows you to search for the GitHub repositories with the most stars created between two dates and outputs to the CLI. It uses the GitHub REST API, the Octokit client library, and moment.js.
 
 ## Features
 * Enter a start and end date to search between (defaults to today for both if not provided)
